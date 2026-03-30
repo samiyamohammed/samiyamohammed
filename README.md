@@ -17,5 +17,9 @@
 
 <!-- THIS IS WHERE YOUR STATS GO -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samiyamohammed&show_icons=true&theme=radical" alt="Samiya's Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=samiyamohammed&show_icons=true&theme=dark" alt="samiyamohammed's GitHub stats" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samiyamohammed&layout=compact&theme=dark" alt="Top Langs" />
 </p>
