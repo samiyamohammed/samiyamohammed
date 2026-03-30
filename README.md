@@ -15,11 +15,10 @@
 
 <br />
 
-<!-- THIS IS WHERE YOUR STATS GO -->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=samiyamohammed&show_icons=true&theme=dark" alt="samiyamohammed's GitHub stats" />
+  <img src="https://metrics.lecoq.io/samiyamohammed?template=classic&config.timezone=Africa%2FAddis_Ababa" alt="Samiya's Metrics" width="100%" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samiyamohammed&layout=compact&theme=dark" alt="Top Langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samiyamohammed&theme=tokyonight" alt="Samiya's Streak" />
 </p>
